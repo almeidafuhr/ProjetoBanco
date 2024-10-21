@@ -1,0 +1,9 @@
+2024-10-21 12:38:08 [Information] Aplicação iniciada
+2024-10-21 12:38:12 [Information] Nome informado: "Guilherme"
+2024-10-21 12:38:12 [Information] Aplicação finalizada
+2024-10-21 12:39:40 [Information] Aplicação iniciada
+2024-10-21 12:39:42 [Information] Nome informado: "Guilherme"
+2024-10-21 12:39:42 [Information] Aplicação finalizada
+2024-10-21 12:48:55 [Information] Aplicação iniciada
+2024-10-21 12:48:58 [Information] Nome informado: "guilherme"
+2024-10-21 12:48:58 [Information] Aplicação finalizada
