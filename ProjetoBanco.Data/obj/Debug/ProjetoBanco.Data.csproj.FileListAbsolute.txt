@@ -1,0 +1,9 @@
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\bin\Debug\ProjetoBanco.Data.dll
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\bin\Debug\ProjetoBanco.Data.pdb
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\bin\Debug\ProjetoBanco.Domain.dll
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\bin\Debug\ProjetoBanco.Domain.pdb
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\obj\Debug\ProjetoBanco.Data.csprojAssemblyReference.cache
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\obj\Debug\ProjetoBanco.Data.csproj.CoreCompileInputs.cache
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\obj\Debug\ProjetoBanco.Data.csproj.CopyComplete
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\obj\Debug\ProjetoBanco.Data.dll
+C:\Users\E37083\Desktop\Atividades\Projeto\ProjetoBanco.Application\ProjetoBanco.Data\obj\Debug\ProjetoBanco.Data.pdb
